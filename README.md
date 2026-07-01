@@ -1,4 +1,4 @@
-```markdown
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Navaneethan S
 
 <h3 align="center">AI & Data Science Engineer | ML Enthusiast | Data Analyst | Builder</h3>
